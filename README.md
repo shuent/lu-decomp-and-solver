@@ -8,12 +8,25 @@ LU decomposition is faster algorithm than Gauss-Jordan elimination, which you us
 
 ## About
 
-Linear equation is expressed in this form: Ax = b
+Linear equation is expressed in this form: 
 
-```math
-y = f(x)
+Ax = b
 
-```
+A is decomosed by L,U
+
+A = LU
+
+equation can be written,
+
+LUx = b
+
+Let y 
+Ux = y,
+
+equation separate
+
+Ly = b
+Ux = y
 
 ### L,U decomposition
 
